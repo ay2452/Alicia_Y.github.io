@@ -1,0 +1,127 @@
+---
+title: "Alicia Yang's Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+Education
+---
+**Columbia University Mailman School of Public Health, New York, NY** 
+
+Expected May 2020
+
+Master of Public Health (MPH), Epidemiology, Infectious Diseases Certificate
+
+Relevant Coursework: Analysis of Categorical Data, Design and Conduct of Observational Epidemiology, Application of Epidemiologic Research Methods, Infectious Disease Epidemiology
+
+
+**The Pennsylvania State University, University Park, PA** 	  
+
+May 2018
+
+Bachelor of Science in Immunology and Infectious Diseases			
+
+Bachelor of Science in Biology, Neuroscience Option
+
+Relevant Coursework: Bacterial Pathogenesis, Evolution of Infectious Diseases, Advanced Immunology 	
+
+---
+
+Experience
+---
+**Columbia University Medical Center**		    
+
+June 2019 to present
+
+Dr. Lisa Saiman, Graduate Research Assistant
+
+-Investigated the epidemiology of an outbreak of Burkholderia in a hospital setting
+
+-Collaborated with professionals to frame study design, data collection, and data analysis
+
+
+**Division of Infectious Diseases, Columbia University Medical Center**           
+
+October 2018 to June 2019
+
+Uhlemann Lab, Undergraduate Research Assistant
+
+-Extracted plasmid DNA from S. aureus to transform cells and test mupirocin resistance
+
+-Conducted broth microdilutions on Serratia marcescens to analyze antibiotic resistance  
+
+
+**Department of Biology, Penn State University**				      	   
+
+June 2015 to May 2018
+
+Fisher Lab, Undergraduate Research Assistant
+
+-Collaborated with professionals on research vessel in Gulf of Mexico to obtain samples and high-resolution photos of deep sea corals to analyze their microbiomes and the impacts of the Deepwater Horizon oil spill
+
+-Extracted and amplified coral 16s rRNA for sequencing in Gulf of Mexico study to understand microbiome composition in different deep sea corals
+
+
+**Department of Veterinary and Biomedical Sciences, Penn State University**
+
+May 2016 to September 2017 
+
+Jayarao Lab, Undergraduate Research Assistant
+
+-Used multi-virulence-locus sequence typing (MVLST) on Listeria monocytogenes samples to compare with other known Listeria monocytogenes sequences
+
+-Conducted antimicrobial resistance (AMR) tests and MALDI-TOF on Listeria monocytogenes samples
+
+-Conducted PCR and gel electrophoresis on samples to amplify six Listeria monocytogenes virulence genes
+
+---
+
+Skills
+---
+-Proficient computer skills including data analysis: Microsoft Office (Powerpoint, Word, Excel), SAS, R (end of Fall 2019)
+
+-Certifications: CITI, HIPAA
+
+---
+
+Leadership
+---
+**Columbia University Chinese Dance Club**
+
+January 2019 to May 2019 
+
+Assistant Instructor
+
+-Helped arrange and teach dances for the club’s annual showcase                                                                 
+
+**Penn State Classical Dance Club**  
+
+January 2014 to May 2018
+
+President
+
+-Organized weekly club rehearsals and performances and coordinated with club’s executive board to design and order custom costumes 
+
+Instructor
+
+-Choreographed and taught dances for performances
+
+
+**Penn State Student Red Cross Club**		
+
+August 2015 to May 2018
+
+On-Site Coordinator
+
+-Oversaw student volunteers at blood drives
+
+-Made sure blood donors followed recommendations for rest at refreshments table after donating blood
+
+Food Chair
+
+-Obtained food donations from restaurants in State College for Red Cross blood drives
+
+-Initiated and maintained relationships with restaurants in State College for on-going food donations
