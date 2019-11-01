@@ -12,7 +12,7 @@
 
 
 
-<title>Alicia Y’s Website</title>
+<title>NYC Restaurant Dashboard</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -376,22 +376,45 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Alicia Y’s Website</h1>
+<h1 class="title toc-ignore">NYC Restaurant Dashboard</h1>
 
 </div>
 
 
-<div id="hello" class="section level1">
-<h1>Hello!</h1>
-<p><img src="DSC_1240.JPG" /></p>
-<p>I’m Alicia, a second year MPH student in the Department of Epidemiology, Infectious Diseases certificate at Columbia University Mailman School of Public Health. Over the summer, I looked at an outbreak of Burkholderia in a hospital setting and will continue analyses on the project as part of my thesis.</p>
-<hr />
-<p>In my free time, I love to bake and decorate sweets; particularly cakes and cupcakes! Some pictures below:</p>
-<p><img src="IMG_2939.JPG" /></p>
-<p><img src="IMG_3921.JPG" /></p>
-<hr />
-<p>The navigation bar includes links to my Github account, my email, and my LinkedIn. I invite you to look around!</p>
-</div>
+<pre class="r"><code>library(tidyverse)</code></pre>
+<pre><code>## ── Attaching packages ─────────────────────── tidyverse 1.2.1 ──</code></pre>
+<pre><code>## ✔ ggplot2 3.2.1     ✔ purrr   0.3.2
+## ✔ tibble  2.1.3     ✔ dplyr   0.8.3
+## ✔ tidyr   1.0.0     ✔ stringr 1.4.0
+## ✔ readr   1.3.1     ✔ forcats 0.4.0</code></pre>
+<pre><code>## ── Conflicts ────────────────────────── tidyverse_conflicts() ──
+## ✖ dplyr::filter() masks stats::filter()
+## ✖ dplyr::lag()    masks stats::lag()</code></pre>
+<pre class="r"><code>library(viridis)</code></pre>
+<pre><code>## Loading required package: viridisLite</code></pre>
+<pre class="r"><code>library(p8105.datasets)
+library(plotly)</code></pre>
+<pre><code>## 
+## Attaching package: &#39;plotly&#39;</code></pre>
+<pre><code>## The following object is masked from &#39;package:ggplot2&#39;:
+## 
+##     last_plot</code></pre>
+<pre><code>## The following object is masked from &#39;package:stats&#39;:
+## 
+##     filter</code></pre>
+<pre><code>## The following object is masked from &#39;package:graphics&#39;:
+## 
+##     layout</code></pre>
+<pre class="r"><code>data(&quot;rest_inspec&quot;) 
+
+set.seed(1)
+
+nyc_rest = 
+  rest_inspec %&gt;% 
+  filter(
+    !is.na(grade),
+    boro == &quot;MANHATTAN&quot;)  %&gt;% 
+  sample_n(5000)</code></pre>
 
 
 
