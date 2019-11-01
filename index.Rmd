@@ -7,6 +7,22 @@ output:
     theme: cerulean
 ---
 
+
 # Hello!
 
 ![](DSC_1240.JPG)
+
+I'm Alicia, a second year MPH student in the Department of Epidemiology, Infectious Diseases certificate at Columbia University Mailman School of Public Health. Over the summer, I looked at an outbreak of Burkholderia in a hospital setting and will continue analyses on the project as part of my thesis. 
+
+
+In my free time, I love to bake and decorate sweets; particularly cakes and cupcakes! Some pictures below: 
+
+
+![](IMG_2939.JPG)
+
+
+![](IMG_3921.JPG)
+
+----
+
+The navigation bar includes links to my Github account, my email, and my LinkedIn. I invite you to look around! 
